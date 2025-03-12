@@ -6,6 +6,7 @@
 // Uses name.c to change USB name
 
 #include "Keyboard.h"
+#include <Keyboard.h>
 
 //            ___      ___    ___
 //____________| |______| |____| |______//_____
@@ -28,7 +29,7 @@ void setup() {
   }
 
   Serial.println("Compiled " __FILE__ " " __DATE__ " "  __TIME__);
-  #include "printme.h"
+ // #include "printme.h"
   lastDialedTime = millis();
   Serial.print("> ");
 }
