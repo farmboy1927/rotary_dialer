@@ -1,3 +1,7 @@
+My forked version has slightly tweaked rotary_keypad.ino file. I used a teensy 4.1. Make sure to select USB Type as Keyboard under tools. 
+
+
+Prior notes from master fork:
 # rotary_dialer
 Use old telephone rotary dial as a USB numeric keypad; includes 3-D printer files. [Video at YouTube](https://www.youtube.com/watch?v=j2RmRgkIrfg)
 
