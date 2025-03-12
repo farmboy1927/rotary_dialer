@@ -1,4 +1,8 @@
-My forked version has slightly tweaked rotary_keypad.ino file. I used a teensy 4.1. Make sure to select USB Type as Keyboard under tools. 
+My forked version has slightly tweaked rotary_keypad.ino file since I was having issues with the initial code. I also added an "assistant" version of the code that will open up the Google Assistant on your smartphone when you dial '0'.
+
+I used a teensy 4.1. 
+
+Make sure to select USB Type as Keyboard under tools. 
 
 
 Prior notes from master fork:
